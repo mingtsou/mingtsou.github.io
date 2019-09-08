@@ -56,16 +56,16 @@ Since Git index can only list "files", rather than "folders", you can not create
 1. If the images is from an external webpage, just use the following format.  However, if the Image source is from a HTTPS website (secured HTTP server), the image will not be displayed in the README directly.  But it will be displayed in the "Web Page" ( https://mingtsou.github.io/ ).
 
 ```markdown
-![Image_text](src)
-![HDMA LOGO_in HTTPS link](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
-![HDMA LOGO Local](/images/hdma2.png)
-![Image in HTTP link will be OK](http://mappingideas.sdsu.edu/images/2.jpg)
+![Image_Alternative_text](src or URL)
+
+![HDMA LOGO Saved In Local](/images/hdma2.png)
+![Image in HTTP link can be displayed in Github](http://mappingideas.sdsu.edu/images/2.jpg)
+![Image_in HTTPS link will not be displayed in Github](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 ```
 
-![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
-![HDMA LOGO Local](/images/hdma2.png)
-![Image in HTTP link will be OK](http://mappingideas.sdsu.edu/images/2.jpg)
-
+![HDMA LOGO Saved In Local](/images/hdma2.png)
+![Image in HTTP link can be displayed in Github](http://mappingideas.sdsu.edu/images/2.jpg)
+![Image_in HTTPS link will not be displayed in Github](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 
 ### How to delete a folder in Github?
 
