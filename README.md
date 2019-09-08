@@ -58,10 +58,12 @@ Since Git index can only list "files", rather than "folders", you can not create
 ```markdown
 ![Image_text](src)
 ![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+![HDMA LOGO Local](/images/hdma2.png)
 
 ```
 
 ![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+![HDMA LOGO Local](/images/hdma2.png)
 
 ### How to delete a folder in Github?
 
