@@ -1,5 +1,8 @@
 This site is published at https://mingtsou.github.io/
 
+Here is the Basic writing and formatting snytax for Markdown on Github.
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax#quoting-code
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mingtsou/mingtsou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
