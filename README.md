@@ -53,18 +53,18 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 ### How to add a images in your Github.io webpage?
 
-1. If the images is from an external webpage, just use the format 
+1. If the images is from an external webpage, just use the following format.  However, if the Image source is from a HTTPS website (secured HTTP server), the image will not be displayed in the README directly.  But it will be displayed in the "Web Page" ( https://mingtsou.github.io/ ).
 
 ```markdown
 ![Image_text](src)
-![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+![HDMA LOGO_in HTTPS link](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 ![HDMA LOGO Local](/images/hdma2.png)
-
+![Image in HTTP link will be OK](http://mappingideas.sdsu.edu/images/2.jpg)
 ```
 
 ![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 ![HDMA LOGO Local](/images/hdma2.png)
-![testing](http://mappingideas.sdsu.edu/images/1.jpg)
+![Image in HTTP link will be OK](http://mappingideas.sdsu.edu/images/2.jpg)
 
 
 ### How to delete a folder in Github?
