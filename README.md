@@ -64,6 +64,8 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 ![HDMA LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 ![HDMA LOGO Local](/images/hdma2.png)
+![testing](http://mappingideas.sdsu.edu/images/1.jpg)
+
 
 ### How to delete a folder in Github?
 
