@@ -54,6 +54,10 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 ![HDMA_LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 
+### How to delete a folder in Github?
+
+You can delete a file using delete button but you cannot directly delete a folder via the web-interface. The way to delete a folder from GitHub.com is to delete every file inside it.
+
 ### Website default file is README.md or index.html?
 
 The Github website (io) will check if there is a "index.html" file available.  If this file is available, Github will use the "index.html" as the default web page in this folder.  Otherwise, the README.md will be the default webpage. 
