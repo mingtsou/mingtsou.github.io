@@ -70,4 +70,4 @@ You can delete a file using delete button but you cannot directly delete a folde
 ### Website default file is README.md or index.html?
 
 The Github website (io) will check if there is a "index.html" file available.  If this file is available, Github will use the "index.html" as the default web page in this folder.  Otherwise, the README.md will be the default webpage. 
-
+ 
