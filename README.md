@@ -56,7 +56,7 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 ### How to delete a folder in Github?
 
-You can delete a file using delete button but you cannot directly delete a folder via the web-interface. The way to delete a folder from GitHub.com is to delete every file inside it.
+You can delete a file using delete button but you cannot directly delete a folder via the web-interface. The way to delete a folder from GitHub.com is to delete every file inside it. Once you delete all files inside a folder.  The folder will no longer exist.
 
 ### Website default file is README.md or index.html?
 
