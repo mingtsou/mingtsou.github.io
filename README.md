@@ -50,7 +50,8 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 ### How to add a images in your Github.io webpage?
 
-1. If the images is from an external webpage, just use the format **![Image_text](src)**
+1. If the images is from an external webpage, just use the format 
+**![Image_text](src)
 
 !(https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 
