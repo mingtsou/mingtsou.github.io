@@ -53,3 +53,8 @@ Since Git index can only list "files", rather than "folders", you can not create
 1. If the images is from an external webpage, just use the format ![Image_text](src)
 
 ![HDMA_LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+
+### Website default file is README.md or index.html?
+
+The Github website (io) will check if there is a "index.html" file available.  If this file is available, Github will use the "index.html" as the default web page in this folder.  Otherwise, the README.md will be the default webpage. 
+
