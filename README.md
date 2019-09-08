@@ -52,7 +52,7 @@ Since Git index can only list "files", rather than "folders", you can not create
 
 1. If the images is from an external webpage, just use the format ![Image_text](src)
 
-![HDMA_LOGO](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+!(https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
 
 ### How to delete a folder in Github?
 
