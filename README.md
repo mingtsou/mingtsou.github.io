@@ -51,7 +51,7 @@ Since Git index can only list "files", rather than "folders", you can not create
 4. you can add more folders similarly.
 
 
-### How to add a images in your Github.io webpage?
+### How to add an images in your Github.io webpage?
 
 1. If the images is from an external webpage, just use the following format.  However, if the Image source is from a HTTPS website (secured HTTP server), the image will not be displayed in the README directly.  But it will be displayed in the "Web Page" ( https://mingtsou.github.io/ ).
 
